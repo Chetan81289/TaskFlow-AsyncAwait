@@ -27,6 +27,7 @@
 		1DABA2F52FA4CCE6005F55E8 /* TaskFlow-AsyncAwait.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "TaskFlow-AsyncAwait.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		1DABA3072FA4CCE7005F55E8 /* TaskFlow-AsyncAwaitTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "TaskFlow-AsyncAwaitTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		1DABA3112FA4CCE7005F55E8 /* TaskFlow-AsyncAwaitUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "TaskFlow-AsyncAwaitUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		1DCE66852FA50DDC0047E0EA /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
@@ -79,6 +80,7 @@
 				1DABA30A2FA4CCE7005F55E8 /* TaskFlow-AsyncAwaitTests */,
 				1DABA3142FA4CCE7005F55E8 /* TaskFlow-AsyncAwaitUITests */,
 				1DABA2F62FA4CCE6005F55E8 /* Products */,
+				1DCE66852FA50DDC0047E0EA /* README.md */,
 			);
 			sourceTree = "<group>";
 		};
